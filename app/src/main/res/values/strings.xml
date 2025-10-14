@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github repo</string>
+
+    <!-- Github Activity -->
+    <string name="events_generic_error_title">Ops!</string>
+    <string name="events_generic_error_description">Aconteceu algum erro. \nPor favor tente novamente.</string>
+    <string name="events_btn_try_again">Tentar Novamente</string>
+
+    <!-- Item Load More State -->
+    <string name="error_loading_more_try_again">Erro ao tentar carregar a próxima página. Tente novamente</string>
+
+    <!-- Accessibility Description -->
+    <string name="accessibility_github_background">Icone do Github</string>
+</resources>
